@@ -8,7 +8,7 @@ Pensando nessa lacuna e na crescente necessidade de manter as pessoas informadas
 
 Benefícios para o dia a dia profissional e pessoal:
 
-✅ Pontos Positivos e Agregação de Valor:
+**Pontos Positivos e Agregação de Valor:**
 
 ✅Informação Fresca e Relevante: O agente de IA terá a capacidade de rastrear a internet em tempo real, identificando as ameaças mais recentes e as táticas utilizadas pelos cibercriminosos. Isso garante que o conteúdo compartilhado seja sempre atual e diretamente relevante para o dia a dia das pessoas.
 
@@ -20,6 +20,8 @@ Benefícios para o dia a dia profissional e pessoal:
 
 ✅Adaptabilidade: Com o tempo e o aprendizado contínuo, o agente poderá refinar a sua capacidade de identificar tendências, adaptar o tom e o estilo dos posts às necessidades específicas da empresa e até mesmo personalizar as mensagens para diferentes grupos de colaboradores.
 Como a Solução Ajuda a Evitar Golpes e Ataques:
+
+**Como a Solução Ajuda a Evitar Golpes e Ataques:**
 
 🔐Reconhecer as Ameaças: Ao estarem cientes das táticas utilizadas pelos criminosos, os colaboradores se tornam mais aptos a identificar e-mails de phishing, sites fraudulentos, mensagens suspeitas e outras formas de ataque.
   
